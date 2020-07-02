@@ -14,6 +14,7 @@ import reactor.core.publisher.Mono;
 import static org.springframework.web.reactive.function.server.ServerResponse.ok;
 import static org.springframework.web.reactive.function.BodyInserters.fromPublisher;
 
+/*Classe comentada para implementação de events stream*/
 //@Component
 public class PlaylistHandler {
 
