@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.*;
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;
 
+/*Esta classe deve ser anotada caso usemos as configurações de serviços reativos por handler e router*/
 @RestController
 public class PlaylistController {
 
